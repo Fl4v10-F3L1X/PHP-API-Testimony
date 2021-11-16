@@ -1,0 +1,13 @@
+{
+    "name": "fpro/mvc",
+    "autoload": {
+        "psr-4": {
+            "App\\":"app/"
+        }
+    },
+    "require": {
+        "william-costa/dot-env": "^0.1.0",
+        "william-costa/database-manager": "^0.1.0",
+        "firebase/php-jwt": "^5.4"
+    }
+}
